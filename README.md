@@ -5,6 +5,9 @@ Il utilise uniquement les outils disponibles sur Tinkercad : un générateur de 
 
 L’objectif est d’apprendre à manipuler et analyser des signaux électriques réels, de comprendre le rôle d’un filtre RC et d’un petit étage amplificateur, et d’utiliser les instruments virtuels comme dans un vrai laboratoire.
 
+<img width="692" height="341" alt="image" src="https://github.com/user-attachments/assets/2cc96f7a-73b6-450d-8d12-d2e589b92008" />
+
+
 ## 🔶 1. Compréhension générale du projet
 
 Le générateur de fonction produit un signal alternatif (souvent une sinusoïde).
